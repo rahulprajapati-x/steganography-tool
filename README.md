@@ -20,11 +20,15 @@ Python 3.9 or above
 pip (Python package manager)
 Check Python version:
 python --version
+
+
 📥 Installation (Step-by-Step)
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/steganox.git
 cd steganox
 OR download ZIP and extract it.
+
+
 2️⃣ Create a Virtual Environment (Recommended)
 Windows
 python -m venv venv
@@ -32,6 +36,8 @@ venv\Scripts\activate
 Linux / macOS
 python3 -m venv venv
 source venv/bin/activate
+
+
 3️⃣ Install Required Dependencies
 pip install pyqt6 stegano cryptography pillow
 ▶️ Run the Application
