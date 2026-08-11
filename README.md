@@ -1,4 +1,8 @@
 🔐 STEGANOX – Secure Steganography Tool
+
+https://rahulprajapati-x.github.io/stegx/
+
+
 STEGANOX is a GUI-based steganography tool built using Python that securely hides any file inside an image using LSB (Least Significant Bit) steganography combined with AES-256 encryption.
 It is designed for educational and cybersecurity learning purposes.
 ✨ Features
@@ -24,10 +28,12 @@ python --version
 
 📥 Installation (Step-by-Step)
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/steganox.git
+git clone https://github.com/rahulprajapati-x/steganox.git
 cd steganox
 OR download ZIP and extract it.
 
+or you can use direct this tool 
+https://rahulprajapati-x.github.io/stegx/
 
 2️⃣ Create a Virtual Environment (Recommended)
 Windows
